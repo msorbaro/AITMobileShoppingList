@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+
+    <string name="catagory_prompt">Choose a catagory</string>
+    <string name="christmas">Christmas</string>
+    <string name="food">Food</string>
+    <string name="clothes">Clothes</string>
+    <string name="exception">The activity does not implement the TodoHandlerInterface</string>
+    <string name="newitem">New item</string>
+    <string name="edititem">Edit item</string>
+    <string name="o">OK</string>
+    <string name="errormessage">This field can not be empty</string>
+    <string name="beginngxmas">There are </string>
+    <string name="midxmas"> days till Christmas. Must buy </string>
+    <string name="endxmas"> gifts.</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="enter_cost">Enter Cost</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="bought">bought</string>
+    <string name="name">name</string>
+    <string name="desc">desc</string>
+    <string name="catagory">catagory</string>
+    <string name="price">price</string>
+    <string name="check">check</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="newmenu">New</string>
+    <string name="christmas_count">Christmas Count</string>
+    <string name="deletenewmenu">delete</string>
+    <string name="deleteagain">delete</string>
+
+    <string-array name="catagories">
+        <item>Food</item>
+        <item>Clothes</item>
+        <item>Christmas</item>
+        <item>Other</item>
+    </string-array>
+</resources>
